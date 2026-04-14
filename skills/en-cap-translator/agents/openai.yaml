@@ -1,0 +1,4 @@
+interface:
+  display_name: "AD Regulation Translator"
+  short_description: "Translate AD regulations into bilingual markdown, DOCX, and HTML"
+  default_prompt: "Use $en-cap-translator to translate this regulation section into bilingual Chinese markdown and package it as DOCX or HTML."
